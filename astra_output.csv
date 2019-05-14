@@ -1,0 +1,479 @@
+Encoding;Encryption;Frequency;Genre;Language;Model;Name;Orb;Pay;Pol.;Pos.;Quality;SR;Satellite;Transponder;Type
+mpeg-4;none;10714;Entertainment General;German;;Donau;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Fernsehen Franken;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Isar;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Main;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Oberpfalz;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;1 Trp;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Schweinfurt Mainfranken;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Wurzburg Mainfranken;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Oberfranken;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-4;none;10714;Entertainment General;German;;Ostbayern Tva;19.2°E;Free;h;;hd;22000;1kr;1.049;tv
+mpeg-2;none;10744;Culture;German;;Deutsch Arte;19.2°E;Free;h;;sd;22000;1m;1.051;tv
+mpeg-2;none;10744;Entertainment General;German;;One;19.2°E;Free;h;;sd;22000;1m;1.051;tv
+mpeg-2;none;10744;Political;German;;Phoenix;19.2°E;Free;h;;sd;22000;1m;1.051;tv
+mpeg-2;none;10744;News;German;;24 Tagesschau;19.2°E;Free;h;;sd;22000;1m;1.051;tv
+mpeg-4;none;10773;Entertainment General;German;;Serie Anixe;19.2°E;Free;h;;hd;22000;1kr;1.053;tv
+mpeg-4;none;10773;Shopping;German;;Plus Genius;19.2°E;Free;h;;sd;22000;1kr;1.053;tv
+mpeg-4;none;10773;Shopping;German;;24 Hse;19.2°E;Free;h;;hd;22000;1kr;1.053;tv
+mpeg-4;none;10773;Shopping;German;;Deutschland Qvc;19.2°E;Free;h;;hd;22000;1kr;1.053;tv
+mpeg-4;none;10773;Religious;German;;Deutsch Sophia;19.2°E;Free;h;;sd;22000;1kr;1.053;tv
+mpeg-4;none;10803;Shopping;German;;123;19.2°E;Free;h;;hd;22000;1kr;1.055;tv
+mpeg-4;none;10803;Adults;German;;24 Babestation;19.2°E;Free;h;;hd;22000;1kr;1.055;tv
+mpeg-4;none;10803;Shopping;German;;Extra 24 Hse;19.2°E;Free;h;;hd;22000;1kr;1.055;tv
+mpeg-4;none;10803;Shopping;German;;Deutschland 2 Qvc;19.2°E;Free;h;;hd;22000;1kr;1.055;tv
+;none;10847;;Spanish;;Dial Cadena;19.2°E;Free;v;;;22000;1m;1.058;radio
+;none;10847;;Spanish;;Ser Cadena;19.2°E;Free;v;;;22000;1m;1.058;radio
+mpeg-2;none;10847;Promo;Spanish;;Portada Canal;19.2°E;Free;v;;sd;22000;1m;1.058;tv
+;none;10847;;Spanish;;Principales 40 Los;19.2°E;Free;v;;;22000;1m;1.058;radio
+mpeg-2;none;10847;Shopping;Spanish;;Ltc;19.2°E;Free;v;;sd;22000;1m;1.058;tv
+;none;10847;;Spanish;;Radio 80;19.2°E;Free;v;;;22000;1m;1.058;radio
+;none;10847;;Spanish;;Maxima;19.2°E;Free;v;;;22000;1m;1.058;radio
+;none;10847;;Spanish;;Radiole;19.2°E;Free;v;;;22000;1m;1.058;radio
+mpeg-4;none;10891;Entertainment General;German;;Fernsehen;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-4;none;10891;Entertainment General;German;;Sachsen Fernsehen Mdr;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-4;none;10891;Entertainment General;German;;Sachsenanhalt Fernsehen Mdr;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-4;none;10891;Entertainment General;German;;Thuringen Fernsehen Mdr;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-4;none;10891;Entertainment General;German;;Berlin Rbb;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-4;none;10891;Entertainment General;German;;Brandenburg Rbb;19.2°E;Free;h;;hd;22000;1m;1.061;tv
+mpeg-2;none;10921;Films;German;;;19.2°E;Free;h;;sd;22000;1kr;1.063;tv
+mpeg-4;none;10921;Shopping;German;;Family Genius;19.2°E;Free;h;;sd;22000;1kr;1.063;tv
+mpeg-2;none;10921;Promo;German;;Promo Deutschland Hgtv;19.2°E;Free;h;;sd;22000;1kr;1.063;tv
+mpeg-2;none;10921;;German;;One Zee;19.2°E;Free;h;;sd;22000;1kr;1.063;tv
+mpeg-4;none;10964;Shopping;German;;21 Channel;19.2°E;Free;h;;hd;22000;1l;1.033;tv
+mpeg-4;none;10964;Shopping;German;;Deutschland Style Qvc;19.2°E;Free;h;;hd;22000;1l;1.033;tv
+mpeg-4;none;10964;Shopping;German;;2 Sparhandy;19.2°E;Free;h;;hd;22000;1l;1.033;tv
+mpeg-4;none;10964;Test;German;;One Zee;19.2°E;Free;h;;hd;22000;1l;1.033;tv
+mpeg-2;none;10994;Promo;English;;Channel Demo Ultra Ses;19.2°E;Free;h;;uhd;22000;1l;1.035;tv
+mpeg-2;none;10994;;German;;1 Uhd;19.2°E;Free;h;;uhd;22000;1l;1.035;tv
+mpeg-4;none;11053;Education;German;;Alpha Ard;19.2°E;Free;h;;hd;22000;1l;1.039;tv
+mpeg-4;none;11053;Entertainment General;German;;One;19.2°E;Free;h;;hd;22000;1l;1.039;tv
+mpeg-4;none;11053;Entertainment General;German;;Bremen Radio;19.2°E;Free;h;;hd;22000;1l;1.039;tv
+mpeg-4;none;11053;;German;;Fernsehen;19.2°E;Free;h;;hd;22000;1l;1.039;tv
+mpeg-4;none;11053;News;German;;24 Tagesschau;19.2°E;Free;h;;hd;22000;1l;1.039;tv
+mpeg-2;none;11068;Entertainment General;Galician;;Europa Galicia;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-4;none;11068;News;French;;Francais News I24;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-2;none;11068;Entertainment General;Portuguese;;Europa Record;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-2;none;11068;Religious;Spanish;;Espana Tbn;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-2;none;11068;;Arabic;;Maroc Tele;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-2;none;11068;Entertainment General;Spanish;;Telesur;19.2°E;Free;v;;sd;22000;1l;1.040;tv
+mpeg-2;none;11112;Fashion;English;;One Fashion;19.2°E;Free;h;;uhd;22000;1l;1.043;tv
+mpeg-2;none;11156;Entertainment General;Spanish;;Andalucia Sur Canal;19.2°E;Free;v;;sd;22000;1kr;1.046;tv
+;none;11186;;Polish;;Maryja Radio;19.2°E;Free;v;;;22000;1l;1.048;radio
+mpeg-2;none;11186;Religious;Polish;;Trwam;19.2°E;Free;v;;sd;22000;1l;1.048;tv
+mpeg-4;none;11229;News;English;;English Aljazeera;19.2°E;Free;v;;hd;22000;1kr;1.002;tv
+mpeg-4;none;11229;News;English;;Europe News World Bbc;19.2°E;Free;v;;hd;22000;1kr;1.002;tv
+mpeg-4;none;11229;;French;;Live Blanc Mont;19.2°E;Free;v;;hd;22000;1kr;1.002;tv
+mpeg-4;none;11229;News;English;;Japan World Nhk;19.2°E;Free;v;;hd;22000;1kr;1.002;tv
+mpeg-4;none;11244;Religious;German;;Bibel;19.2°E;Free;h;;hd;22000;1kr;1.003;tv
+mpeg-4;none;11244;Religious;German;;Deutsch Channel Hope;19.2°E;Free;h;;hd;22000;1kr;1.003;tv
+mpeg-4;none;11244;;German;;Osterreich Plus Rtl;19.2°E;Free;h;;sd;22000;1kr;1.003;tv
+mpeg-4;none;11244;Entertainment General;German;;Schau;19.2°E;Free;h;;hd;22000;1kr;1.003;tv
+mpeg-2;none;11244;Shopping;German;;Direct 24 Shop;19.2°E;Free;h;;sd;22000;1kr;1.003;tv
+mpeg-4;none;11273;Shopping;German;;Aristo;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11273;Music;German;;Gotv;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11273;;German;;Express Melodie;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11273;Music;German;;Melodie;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11273;;German;;Oe24;19.2°E;Free;h;;hd;22000;1kr;1.005;tv
+mpeg-4;none;11273;;German;;;19.2°E;Free;h;;hd;22000;1kr;1.005;tv
+mpeg-4;none;11273;;German;;5 Schweiz;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11273;Shopping;German;;Direct 24 Shop;19.2°E;Free;h;;sd;22000;1kr;1.005;tv
+mpeg-4;none;11288;Religious;German;;Vozrozhdeniye Deutschland;19.2°E;Free;v;;sd;22000;1l;1.006;tv
+mpeg-2;none;11288;Shopping;German;;Deutschland Qvc;19.2°E;Free;v;;uhd;22000;1l;1.006;tv
+mpeg-2;none;11288;News;Italian;;24 News Rai;19.2°E;Free;v;;sd;22000;1l;1.006;tv
+mpeg-4;none;11303;;German;;Deutschland Servus;19.2°E;Free;h;;hd;22000;1l;1.007;tv
+mpeg-4;none;11347;Culture;German;;3Sat;19.2°E;Free;v;;hd;22000;1kr;1.010;tv
+mpeg-4;none;11347;Children;German;;Kika;19.2°E;Free;v;;hd;22000;1kr;1.010;tv
+mpeg-4;none;11347;;German;;Info Zdf;19.2°E;Free;v;;hd;22000;1kr;1.010;tv
+mpeg-4;none;11362;Entertainment General;German;;Zdf;19.2°E;Free;h;;hd;22000;1kr;1.011;tv
+mpeg-4;none;11362;Documentary;German;;Neo Zdf;19.2°E;Free;h;;hd;22000;1kr;1.011;tv
+mpeg-4;none;11377;;Spanish;;Satelite Extremadura Canal;19.2°E;Free;v;;sd;22000;1l;1.012;tv
+mpeg-4;none;11377;News;Spanish;;Espanol;19.2°E;Free;v;;hd;22000;1l;1.012;tv
+mpeg-4;none;11377;News;French;;France;19.2°E;Free;v;;hd;22000;1l;1.012;tv
+mpeg-4;none;11377;News;English;;News;19.2°E;Free;v;;hd;22000;1l;1.012;tv
+mpeg-4;none;11377;;Spanish;;Telesur;19.2°E;Free;v;;hd;22000;1l;1.012;tv
+mpeg-2;none;11391;Entertainment General;German;;Schweiz 2 Rtl;19.2°E;Free;h;;sd;22000;1kr;1.013;tv
+mpeg-4;none;11421;Religious;German;;Zeit Neue Die;19.2°E;Free;h;;sd;22000;1kr;1.015;tv
+mpeg-4;none;11494;Culture;German;;Deutsch Arte;19.2°E;Free;h;;hd;22000;1n;1.019;tv
+mpeg-4;none;11494;Entertainment General;German;;Erste Das;19.2°E;Free;h;;hd;22000;1n;1.019;tv
+mpeg-4;none;11494;Entertainment General;German;;Badenwurttemberg Fernsehen Swr;19.2°E;Free;h;;hd;22000;1n;1.019;tv
+mpeg-4;none;11494;Entertainment General;German;;Rheinlandpfalz Fernsehen Swr;19.2°E;Free;h;;hd;22000;1n;1.019;tv
+mpeg-2;none;11509;News;Arabic;;Channel Aljazeera;19.2°E;Free;v;;sd;22000;1l;1.020;tv
+mpeg-2;none;11509;Entertainment General;English;;World Arirang;19.2°E;Free;v;;sd;22000;1l;1.020;tv
+mpeg-2;none;11509;Entertainment General;Spanish;;Internacional Cubavision;19.2°E;Free;v;;sd;22000;1l;1.020;tv
+mpeg-2;none;11509;News;Spanish;;Espanol;19.2°E;Free;v;;sd;22000;1l;1.020;tv
+mpeg-2;none;11538;News;English;;Cgtn;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;Documentary;English;;Documentary Cgtn;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;;French;;Francais Cgtn;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;News;Arabic;;Arabic 24 France;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;News;English;;English 24 France;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;News;French;;Francais 24 France;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-2;none;11538;News;English;;News;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-4;none;11538;;English;;World Trt;19.2°E;Free;v;;hd;22000;1l;1.022;tv
+mpeg-2;none;11538;Culture;French;;Europe Monde 5;19.2°E;Free;v;;sd;22000;1l;1.022;tv
+mpeg-4;none;11553;Entertainment General;German;;Atv;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Allgau;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Lokal Bbmv;19.2°E;Free;h;;sd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Intv;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Munchen;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Schwaben Regio;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11553;Entertainment General;German;;Rfo;19.2°E;Free;h;;hd;22000;1l;1.023;tv
+mpeg-4;none;11582;Entertainment General;German;;Nord Fernsehen Bayerisches;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Entertainment General;German;;Sud Fernsehen Bayerisches;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Entertainment General;German;;Hamburg Fernsehen Ndr;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Entertainment General;German;;Mecklenburgvorpommern Fernsehen Ndr;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Entertainment General;German;;Niedersachsen Fernsehen Ndr;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Entertainment General;German;;Schleswigholstein Fernsehen Ndr;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-4;none;11582;Political;German;;Phoenix;19.2°E;Free;h;;hd;22000;1n;1.025;tv
+mpeg-2;none;11597;Business;English;;Europe Bloomberg;19.2°E;Free;v;;sd;22000;1l;1.026;tv
+mpeg-2;none;11597;Entertainment General;Arabic;;Algerie Canal;19.2°E;Free;v;;sd;22000;1l;1.026;tv
+mpeg-2;none;11597;Business;English;;Europe Cnbc;19.2°E;Free;v;;sd;22000;1l;1.026;tv
+mpeg-2;none;11597;Religious;English;;International Sbn;19.2°E;Free;v;;sd;22000;1l;1.026;tv
+mpeg-2;none;11597;Entertainment General;Arabic;;Thalitha;19.2°E;Free;v;;sd;22000;1l;1.026;tv
+mpeg-4;none;11612;;Russian;;International Kanal 5;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Russian;;International Kanal 8;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;Entertainment General;Russian;;International Domashniy;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-2;none;11612;Entertainment General;Russian;;Mir Ntv;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Russian;;International Peretz;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Russian;;;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;Entertainment General;Russian;;International Ren;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Russian;;International Sts;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-2;none;11612;News;Turkish;;Turk Trt;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+;none;11612;;Turkish;;Tsr;19.2°E;Free;h;;;22000;1n;1.027;radio
+mpeg-2;none;11612;Entertainment General;Russian;;International Centr;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Russian;;Rus;19.2°E;Free;h;;sd;22000;1n;1.027;tv
+mpeg-4;none;11612;;Turkish;;Yol;19.2°E;Free;h;;hd;22000;1n;1.027;tv
+mpeg-2;none;11627;News;English;;English Aljazeera;19.2°E;Free;v;;sd;22000;1m;1.028;tv
+mpeg-2;none;11627;News;Spanish;;Horas 24 Canal;19.2°E;Free;v;;sd;22000;1m;1.028;tv
+mpeg-2;none;11627;News;English;;Europe International Cnn;19.2°E;Free;v;;sd;22000;1m;1.028;tv
+mpeg-2;none;11627;;English;;English;19.2°E;Free;v;;sd;22000;1m;1.028;tv
+;none;11627;;Spanish;;Exterior Radio;19.2°E;Free;v;;;22000;1m;1.028;radio
+;none;11627;;Spanish;;3 Radio Rne;19.2°E;Free;v;;;22000;1m;1.028;radio
+;none;11627;;Catalan;;4 Radio Rne;19.2°E;Free;v;;;22000;1m;1.028;radio
+;none;11627;;Spanish;;5 Radio Rne;19.2°E;Free;v;;;22000;1m;1.028;radio
+;none;11627;;Spanish;;Clasica Radio Rne;19.2°E;Free;v;;;22000;1m;1.028;radio
+;none;11627;;Spanish;;Nacional Radio Rne;19.2°E;Free;v;;;22000;1m;1.028;radio
+mpeg-2;none;11627;Entertainment General;Spanish;;Europa Internacional Tve;19.2°E;Free;v;;sd;22000;1m;1.028;tv
+mpeg-2;none;11671;;German;;Austria Doku Eins Kabel;19.2°E;Free;h;;sd;22000;1n;1.031;tv
+mpeg-2;none;11671;;German;;Austria Maxx Prosieben;19.2°E;Free;h;;sd;22000;1n;1.031;tv
+mpeg-2;none;11671;;German;;Osterreich Gold 1 Sat;19.2°E;Free;h;;sd;22000;1n;1.031;tv
+mpeg-2;none;11686;;Spanish;;Internacional Aragon;19.2°E;Free;v;;sd;22000;1kr;1.032;tv
+mpeg-2;none;11836;Entertainment General;German;;Nord Fernsehen Bayerisches;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-2;none;11836;Entertainment General;German;;Sud Fernsehen Bayerisches;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-2;none;11836;Entertainment General;German;;Erste Das;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-2;none;11836;Entertainment General;German;;Fernsehen;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-2;none;11836;Entertainment General;German;;Badenwurttemberg Fernsehen Swr;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-2;none;11836;Entertainment General;German;;Koln Fernsehen Wdr;19.2°E;Free;h;;sd;27500;1n;1.071;tv
+mpeg-4;none;11856;Shopping;French;;Boutique;19.2°E;Free;v;;hd;29700;1m;1.072;tv
+mpeg-2;none;11954;Culture;German;;3Sat;19.2°E;Free;h;;sd;27500;1n;1.077;tv
+;none;11954;;German;;Deutschlandfunk;19.2°E;Free;h;;;27500;1n;1.077;radio
+;none;11954;;German;;Kultur Deutschlandfunk;19.2°E;Free;h;;;27500;1n;1.077;radio
+;none;11954;;German;;Kultur Deutschlandfunk;19.2°E;Free;h;;;27500;1n;1.077;radio
+;none;11954;;German;;Nova Deutschlandfunk;19.2°E;Free;h;;;27500;1n;1.077;radio
+;none;11954;;German;;Debatten Und Dokumente;19.2°E;Free;h;;;27500;1n;1.077;radio
+mpeg-2;none;11954;Children;German;;Kika;19.2°E;Free;h;;sd;27500;1n;1.077;tv
+mpeg-2;none;11954;Entertainment General;German;;Zdf;19.2°E;Free;h;;sd;27500;1n;1.077;tv
+mpeg-2;none;11954;;German;;Info Zdf;19.2°E;Free;h;;sd;27500;1n;1.077;tv
+mpeg-2;none;11954;Documentary;German;;Neo Zdf;19.2°E;Free;h;;sd;27500;1n;1.077;tv
+mpeg-2;none;11973;;German;;Deutschland Central Comedy;19.2°E;Free;v;;sd;27500;1m;1.078;tv
+mpeg-2;none;11973;Music;German;;Germany Mtv;19.2°E;Free;v;;sd;27500;1m;1.078;tv
+mpeg-2;none;11973;Music;German;;1 Germany Mtv;19.2°E;Free;v;;sd;27500;1m;1.078;tv
+mpeg-2;none;11973;Children;German;;Deutschland Nickelodeon;19.2°E;Free;v;;sd;27500;1m;1.078;tv
+mpeg-4;none;12032;Promo;German;;Select Sky;19.2°E;Free;h;;sd;27500;1n;1.081;tv
+mpeg-2;none;12051;Entertainment General;German;;Austria Eins Kabel;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Schweiz Eins Kabel;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Austria Prosieben;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Schweiz Prosieben;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Schleswigholstein Und Hamburg 1 Sat;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Bremen Und Niedersachsen 1 Sat;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Osterreich 1 Sat;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Hessen Rheinlandpfalz 1 Sat;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12051;Entertainment General;German;;Schweiz 1 Sat;19.2°E;Free;v;;sd;27500;1n;1.082;tv
+mpeg-2;none;12110;Entertainment General;German;;Sachsen Fernsehen Mdr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Sachsenanhalt Fernsehen Mdr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Thuringen Fernsehen Mdr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Hamburg Fernsehen Ndr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Mecklenburgvorpommern Fernsehen Ndr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Niedersachsen Fernsehen Ndr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Schleswigholstein Fernsehen Ndr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Berlin Rbb;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Brandenburg Rbb;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-2;none;12110;Entertainment General;German;;Rheinlandpfalz Fernsehen Swr;19.2°E;Free;h;;sd;27500;1m;1.085;tv
+mpeg-4;none;12129;Culture;French;;Suisse Belgique France Monde 5;19.2°E;Free;v;;hd;29700;1n;1.086;tv
+;none;12148;;German;;Bayern Antenne;19.2°E;Free;h;;;27500;1n;1.087;radio
+mpeg-2;none;12148;Shopping;German;;21 Channel;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Music;German;;Austria Central Comedy;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Music;German;;Music Deluxe;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;;German;;Austria Dmax;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+;none;12148;;German;;Plus Erf;19.2°E;Free;h;;;27500;1n;1.087;radio
+;none;12148;;German;;Pop Erf;19.2°E;Free;h;;;27500;1n;1.087;radio
+mpeg-4;none;12148;Shopping;German;;Exklusiv Genius;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Religious;English;;Europe God;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+;none;12148;;German;;Channel Life;19.2°E;Free;h;;;27500;1n;1.087;radio
+mpeg-2;none;12148;Shopping;German;;Mediashop;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Shopping;German;;Mediashop;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Documentary;German;;Austria Doku N24;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Children;German;;Austria Nickelodeon;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-2;none;12148;Shopping;German;;Pearl;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+;none;12148;;German;;Antenne Rock;19.2°E;Free;h;;;27500;1n;1.087;radio
+;none;12148;;German;;Live Sunshine;19.2°E;Free;h;;;27500;1n;1.087;radio
+mpeg-2;none;12148;Documentary;German;;Austria Tlc;19.2°E;Free;h;;sd;27500;1n;1.087;tv
+mpeg-4;none;12168;Promo;French;;Promo Canal;19.2°E;Free;v;;sd;29700;1n;1.088;tv
+mpeg-2;none;12188;News;German;;Ntv;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Deutschland Nitro;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Deutschland 2 Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Deutschland Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Schleswigholstein Hamburg Nord Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Bremen Niedersachsen Nord Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;;German;;Plus Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;West Rtl;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Deutschland Rtl Super;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Children;German;;Plus Toggo;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;;German;;Bayern;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-2;none;12188;Entertainment General;German;;Deutschland Vox;19.2°E;Free;h;;sd;27500;1l;1.089;tv
+mpeg-4;none;12207;News;French;;News;19.2°E;Free;v;;hd;29700;1n;1.090;tv
+mpeg-4;none;12207;News;French;;Lci;19.2°E;Free;v;;hd;29700;1n;1.090;tv
+mpeg-4;none;12207;Political;French;;Tnt Lcp;19.2°E;Free;v;;hd;29700;1n;1.090;tv
+mpeg-2;none;12226;News;German;;Deutsch Euronews;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;News;French;;Francais Euronews;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Sports;German;;Germany 1 Eurosport;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Shopping;German;;Extra 24 Hse;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Entertainment General;German;;Austria 2 Rtl;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Entertainment General;German;;Austria Rtl;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-4;none;12226;Entertainment General;German;;Schweiz Rtl;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Entertainment General;German;;Austria Rtl Super;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-2;none;12226;Entertainment General;German;;Austria Vox;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+mpeg-4;none;12226;Entertainment General;German;;Schweiz Vox;19.2°E;Free;h;;sd;27500;1l;1.091;tv
+;none;12266;;German;;Potsdam Brandenburg Antenne;19.2°E;Free;h;;;27500;1m;1.093;radio
+mpeg-2;none;12266;Education;German;;Alpha Ard;19.2°E;Free;h;;sd;27500;1m;1.093;tv
+;none;12266;;German;;Aktuell;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Plus;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Oberbayern 1 Bayern;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Sud 2 Bayern;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;3 Bayern;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Plus Bayern;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Heimat;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Klassik;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Klassik;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Puls;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Eins Bremen;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Vier Bremen;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Zwei Bremen;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Cosmo;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Ding Das;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Fritz;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;1;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kultur 2;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kultur 2;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;3;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;4;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Info;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Inforadio;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kiraka;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kulturradio;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Aktuell Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Jump Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Klassik Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kultur Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kultur Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Sachsen Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Sachsenanhalt Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Sputnik Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Thuringen Mdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Njoy;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Niedersachsen 1 Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Radio 1 Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Nord Welle 1 Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;2 Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;903 Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Blue Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Info Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Spezial Info Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kultur Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Plus Ndr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Eins Radio;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;888 Rbb;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Europawelle 1;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Kulturradio 2;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Saarlandwelle 3;19.2°E;Free;h;;;27500;1m;1.093;radio
+mpeg-2;none;12266;Entertainment General;German;;Fernsehen;19.2°E;Free;h;;sd;27500;1m;1.093;tv
+;none;12266;;German;;Badenwurttemberg 1 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Rheinlandpfalz 1 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Badenwurttemberg 2 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Badenwurttemberg 2 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Rheinlandpfalz 3 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Stuttgart Badenwurttemberg 4 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Mainz Rheinlandpfalz 4 Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Aktuell Swr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Live 1 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Diggi Live 1 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Rheinland 2 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;3 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;3 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;4 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;5 Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;Event Wdr;19.2°E;Free;h;;;27500;1m;1.093;radio
+;none;12266;;German;;You;19.2°E;Free;h;;;27500;1m;1.093;radio
+mpeg-4;none;12304;Sports;German;;News Sport Sky;19.2°E;Free;h;;hd;27500;1n;1.095;tv
+mpeg-2;none;12344;Shopping;German;;Pearl;19.2°E;Free;h;;uhd;30000;1m;1.097;tv
+;none;12363;;Arabic;;Arabic Service World Bbc;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;English;;Europe English Service World Bbc;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Beur;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Radio Business Bfm;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Cherie;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Contact;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;1 Europe;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Fip;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;1071 Bleu France;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Culture France;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Inter France;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Musique France;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Radio Franceinfo;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Radio Fun;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Radio Jazz;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;Arabic;;Doualiya Carlo Monte;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Mouv;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Nostalgie;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;France Nrj;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Oui;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Classique Radio;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Internationale France Radio;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Dame Notre Radio;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Nova Radio;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Rfm;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Chansons Rire;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Rmc;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Rtl;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;2 Rtl;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Skyrock;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Radio Sud;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;Jazz Tsf;19.2°E;Free;v;;;27500;1n;1.098;radio
+;none;12363;;French;;France Radio Virgin;19.2°E;Free;v;;;27500;1n;1.098;radio
+mpeg-2;none;12422;Entertainment General;German;;Bremen Radio;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Dusseldorf Fernsehen Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-4;none;12422;Entertainment General;German;;Koln Fernsehen Wdr;19.2°E;Free;h;;hd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Bielefeld Studio Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Dortmund Studio Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Essen Studio Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Munster Studio Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12422;Entertainment General;German;;Siegen Studio Wdr;19.2°E;Free;h;;sd;27500;1m;1.101;tv
+mpeg-2;none;12460;Shopping;German;;123;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Entertainment General;German;;Anixe;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Adults;German;;24 Babestation;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Children;German;;Deutschland Channel Disney;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+;none;12460;;German;;Ego;19.2°E;Free;h;;;27500;1m;1.103;radio
+mpeg-2;none;12460;Religious;German;;Deutsch Auf Ewtn;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+;none;12460;;German;;Radio Music New Jam;19.2°E;Free;h;;;27500;1m;1.103;radio
+;none;12460;;German;;Radio Klassik;19.2°E;Free;h;;;27500;1m;1.103;radio
+mpeg-2;none;12460;Documentary;German;;Doku N24;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-4;none;12460;Shopping;German;;Dicer Nicer;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Shopping;German;;Deutschland Qvc;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Shopping;German;;Deutschland Style Qvc;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Entertainment General;German;;Deutschland Sixx;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;Shopping;German;;Sparhandy;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12460;;German;;Germany Tlc;19.2°E;Free;h;;sd;27500;1m;1.103;tv
+mpeg-2;none;12480;Entertainment General;German;;Astrotv;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-4;none;12480;;German;;Baden;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Documentary;German;;Deutschland Dmax;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Sports;German;;8 Equi;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Shopping;German;;24 Hse;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Shopping;German;;Trend 24 Hse;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Shopping;German;;Mediashop;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Shopping;German;;Shop Mein;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-4;none;12480;Entertainment General;German;;Satellit Regio;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Travel;German;;Sonnenklar;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Shopping;German;;2 Sparhandy;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Sports;German;;1 Sport;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+mpeg-2;none;12480;Entertainment General;German;;5 Tele;19.2°E;Free;v;;sd;27500;1m;1.104;tv
+;none;12515;;German;;Freundesdienst Radio;19.2°E;Free;h;;;22000;1l;1.105;radio
+;none;12515;;German;;Lebensquelle Radio;19.2°E;Free;h;;;22000;1l;1.105;radio
+;none;12515;;Dutch;;1 Radio Vrt;19.2°E;Free;h;;;22000;1l;1.105;radio
+;none;12515;;Dutch;;Sat 2 Radio Vrt;19.2°E;Free;h;;;22000;1l;1.105;radio
+mpeg-2;none;12545;Entertainment General;German;;Deutschland Eins Kabel;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;;German;;Deutschland Doku Eins Kabel;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;Entertainment General;German;;Deutschland Prosieben;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;;German;;Deutschland Maxx Prosieben;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;Entertainment General;German;;Bayern 1 Sat;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;Entertainment General;German;;Deutschland 1 Sat;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;;German;;Deutschland Gold 1 Sat;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;Entertainment General;German;;Nrw 1 Sat;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12545;News;German;;Welt;19.2°E;Free;h;;sd;22000;1l;1.107;tv
+mpeg-2;none;12552;Religious;German;;Bibel;19.2°E;Free;v;;sd;22000;1n;1.108;tv
+mpeg-2;none;12552;Shopping;German;;Deutschland 2 Qvc;19.2°E;Free;v;;sd;22000;1n;1.108;tv
+mpeg-2;none;12552;Shopping;German;;Deutschland Qvc;19.2°E;Free;v;;sd;22000;1n;1.108;tv
+mpeg-4;none;12574;Shopping;German;;Juwelo;19.2°E;Free;h;;hd;22000;1l;1.109;tv
+mpeg-4;none;12574;Shopping;German;;Pearl;19.2°E;Free;h;;hd;22000;1l;1.109;tv
+mpeg-4;none;12574;Travel;German;;Sonnenklar;19.2°E;Free;h;;hd;22000;1l;1.109;tv
+;none;12604;;German;;Horeb Radio;19.2°E;Free;h;;;22000;1n;1.111;radio
+;none;12604;;German;;Hoffnung Neue Radio;19.2°E;Free;h;;;22000;1n;1.111;radio
+;none;12604;;German;;Radio Rtl;19.2°E;Free;h;;;22000;1n;1.111;radio
+mpeg-2;none;12604;News;English;;International News Sky;19.2°E;Free;h;;sd;22000;1n;1.111;tv
+mpeg-2;none;12604;Entertainment General;German;;Aachen Fernsehen Wdr;19.2°E;Free;h;;sd;22000;1n;1.111;tv
+mpeg-4;none;12604;Entertainment General;German;;Koln Fernsehen Wdr;19.2°E;Free;h;;hd;22000;1n;1.111;tv
+mpeg-2;none;12604;Entertainment General;German;;Bonn Studio Wdr;19.2°E;Free;h;;sd;22000;1n;1.111;tv
+mpeg-2;none;12604;Entertainment General;German;;Duisburg Studio Wdr;19.2°E;Free;h;;sd;22000;1n;1.111;tv
+mpeg-2;none;12604;Entertainment General;German;;Wuppertal Studio Wdr;19.2°E;Free;h;;sd;22000;1n;1.111;tv
+mpeg-2;none;12633;Adults;German;;Sexy Achtung;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;24 Babestation;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;24 Bunnyclub;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Clipmobile;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+;none;12633;;German;;Mallorca Inselradio Das;19.2°E;Free;h;;;22000;1n;1.113;radio
+mpeg-2;none;12633;Adults;German;;Line Date;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Music;German;;Fernsehen Musik Deutsches;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Gaychat Deutschlands;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Eros;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Erotika;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+;none;12633;;German;;Ffn;19.2°E;Free;h;;;22000;1n;1.113;radio
+mpeg-2;none;12633;Adults;German;;Fotohandy;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Shopping;German;;Shopping Freenet;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-4;none;12633;Promo;German;;Promo Freenet;19.2°E;Free;h;;hd;22000;1n;1.113;tv
+mpeg-2;none;12633;Health;German;;Health;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Sexy Und Heiss;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+;none;12633;;German;;Ffh Radio Hit;19.2°E;Free;h;;;22000;1n;1.113;radio
+mpeg-2;none;12633;Shopping;German;;Juwelo;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Shopping;German;;Legenden;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Mannersache;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Promo;German;;Promo Satellite Broadcast Media;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Mobilesex;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Mobile Dirty;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+;none;12633;;German;;Radio Planet;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Gloria Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Harmony Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Hbr Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Deutschland Hcjb Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Paloma Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;Regenbogen Radio;19.2°E;Free;h;;;22000;1n;1.113;radio
+;none;12633;;German;;2 Regenbogen;19.2°E;Free;h;;;22000;1n;1.113;radio
+mpeg-4;none;12633;Entertainment General;German;;Rheinmain;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+mpeg-2;none;12633;Adults;German;;Traumfrauen;19.2°E;Free;h;;sd;22000;1n;1.113;tv
+;none;12663;;German;;Hitradio;19.2°E;Free;h;;;22000;1n;1.115;radio
+mpeg-4;none;12663;;German;;Innviertel 1;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-4;none;12663;;German;;;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-4;none;12663;;German;;1;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-2;none;12663;;German;;Austria Nitro;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+;none;12663;;German;;;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Burgenland Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;4 Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Karnten Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Osterreich Maria Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Niederosterreich Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Oberosterreich Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Salzburg Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Steiermark Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Tirol Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Tirol Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Vorarlberg Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+;none;12663;;German;;Wien Radio;19.2°E;Free;h;;;22000;1n;1.115;radio
+mpeg-2;none;12663;;German;;Deutschland Servus;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-2;none;12663;;German;;Austria Sixx;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-4;none;12663;;German;;Oberosterreich 1;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-2;none;12663;Adults;German;;Visitx;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-2;none;12663;;German;;Wunder Der Welt;19.2°E;Free;h;;sd;22000;1n;1.115;tv
+mpeg-2;none;12692;Music;German;;Folx;19.2°E;Free;h;;sd;22000;1n;1.117;tv
+mpeg-4;none;12692;Music;German;;Hitradio;19.2°E;Free;h;;hd;22000;1n;1.117;tv
+mpeg-4;none;12692;News;German;;Austria Ntv;19.2°E;Free;h;;sd;22000;1n;1.117;tv
+mpeg-2;none;12692;Entertainment General;German;;Europe 2 Orf;19.2°E;Free;h;;sd;22000;1n;1.117;tv
+mpeg-2;none;12692;Entertainment General;German;;Wien 2 Orf;19.2°E;Free;h;;sd;22000;1n;1.117;tv
+mpeg-2;none;12692;;German;;Ric;19.2°E;Free;h;;sd;22000;1n;1.117;tv
+mpeg-2;none;12692;Shopping;German;;Direct 24 Shop;19.2°E;Free;h;;sd;22000;1n;1.117;tv
