@@ -43,17 +43,21 @@ Description of Source code
 ------------------------------------------------------------------------------
 Tested with python 2.6
 
-Channel_2_CSV.py: 
+* Channel_2_CSV.py: 
   Convert DVBS.xml to csv.
-CSV_2_Channel.py: 
+  
+* CSV_2_Channel.py: 
   convert csv to DVBS.xml
   Note: Instead of the original ChannelNumber the value in 
   column "H_New_ChannelNumber" defines the position. 
-Debug_XML.py  :
+
+* Debug_XML.py  :
   pretty print XML (insert linefeeds) - for debugging only.
-Mixin_CSV_TXT_XML.py:  
+
+* Mixin_CSV_TXT_XML.py:  
   provides functions to read/write files (for internal use)
-My_Channels.py:
+
+* My_Channels.py:
   Read channel csv file and my channels csv and creates a new channel list
   based on SID and channel defined in my channels csv file. All other channels 
   are added in alphabetical order (column S_ChannelName_ascii)
